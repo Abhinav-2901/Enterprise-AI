@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"
+      integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA=="
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="static/styleresult.css" />
+    <title>Audio Result</title>
+  </head>
+
+  <body>
+    <header>
+      <a href="/"><i class="fa fa-home" aria-hidden="true"></i> &nbsp; <h1>Enterprise AI</h1></a> <h1>TCS Inframind Season 4</h1>
+          </header>
+    <div class="wrapper">
+      <div class="file-upload-container">
+        <h2>Original Text</h2>
+        <p>
+          {{Text}}
+        </p>
+        <!-- <h3>File Upload</h3>
+        <div class="file-upload">
+          <input type="file" name="photo"/>
+          <i class="fa fa-arrow-up"></i>
+        </div>
+            <button>Submit</button> -->
+      </div>
+      <div class="input-container">
+        <h2>Analysis</h2>
+        <br>
+        <div style="text-align: left;">
+        <h4>Rating - {{Rprediction}}</h4>
+        <h4>Emotion - {{Eprediction}}</h4>
+        <br />
+        <h4>Polarity - {{polarity}}</h4>
+        <h4>Subjectivity - {{subjectivity}}</h4>
+        <h5>
+          Keywords - {{keywords}}
+        </h5>
+        <br />
+        <h4>Summary -</h4>
+        <p>
+          {{summary}}
+        </p>
+      </div>
+
+        <!-- <h3 style="padding-left: 30px;">Enter the text</h3>
+            <input type="text" placeholder="Enter the text here..." name="feedback" />
+            <button>Submit</button> -->
+      </div>
+    </div>
+    <footer></footer>
+  </body>
+</html>

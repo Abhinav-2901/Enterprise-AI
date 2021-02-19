@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"
+      integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA=="
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="/static/style.css" />
+    <title>Image Input</title>
+  </head>
+  <body>
+    <header>
+
+      <a href="/"><i class="fa fa-home" aria-hidden="true"></i> &nbsp; <h1>Enterprise AI</h1></a> <h1>TCS Inframind Season 4</h1>
+          </header>
+    <div class="wrapper">
+      <form class="file-upload-container" action= '/feedback_evaluated_result_image' method="POST" enctype = "multipart/form-data">
+      <div >
+        <h3>File Upload</h3>
+        <div class="file-upload">
+          <input type="file" name="photo"/>
+          <i class="fa fa-arrow-up"></i>
+        </div>
+        <button>Submit</button>
+      </div>
+    </form>
+    <!-- <form class="input-container" style="padding-left: 60px;" action= '/feedback-evaluated-result' method="POST" enctype = "multipart/form-data">
+      <div>
+        <h3 style="padding-left: 30px;">Enter the text</h3>
+        <input type="text" placeholder="Enter the text here..." name="feedback" />
+        <button>Submit</button>
+      </div>
+    </form> -->
+    </div>
+    <footer></footer>
+  </body>
+</html>

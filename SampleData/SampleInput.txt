@@ -1,0 +1,85 @@
+Sample input for emotion:
+
+1. Fear
+
+
+"Remembering that I'll be dead soon is the most important tool I've ever encountered to help me make the big choices in life. 
+Because almost everything — all external expectations, all pride, all fear of embarrassment or failure — these things just fall away in the face of death, leaving only what is truly important. 
+Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. 
+You are already naked. There is no reason not to follow your heart."
+
+
+2. Joy
+
+"We always heard that be happy and determined towards your life. For healthy well-being, it is necessary to feel light and be optimistic about life. There are many ways to be happy and motivated:
+
+In the rush of life, we hardly get time to pamper ourselves. Self-Pampering is the best remedy for negative thoughts and a stressed mindset. Appreciate your entity and don’t wait for other's opinions for appraisal. My time is very necessary; it implies that giving some time to yourself can be good for mental well-being. Laughter is also one of the best remedies for emotional well-being.
+
+Our facial expression has a healing property for lowering our mental stress. If somebody is going with mental trauma, he/she should take a consult from experts. Sometimes, medications and heart-to-heart conversation with someone can light up your stress and anxiety. Yoga and Meditation can give mental calm and peace. Regular practice of Yoga and meditation can calm your mind" 
+
+3. sad
+
+
+“Sadness is a normal human emotion that everyone feels from time to time,” says Johnny Williamson, MD, medical director at Timberline Knolls, a residential treatment facility in Lemont, Illinois. “It is often associated with a difficult life event such as a loss of a loved one, a breakup or other hurtful event that results in an untoward outcome. When a person feels sad, sadness is often the dominant emotion. But there can be periods of levity and less severe mood. Sadness can also sometimes be relieved by venting, crying, exercising or other methods of releasing emotion.”
+
+
+4. Anger 
+
+I dont know where to start. I paid my full bill on arrival of this hotel on 4th June. I hold was kept on my account thereafter which i advised the hotel of. They advised me this was to te cancelled. On the 14 th June they removed 714e from account without any notification or authorisation whilst i was way out of the country. I have spent everyday since last Monday trying to resolve and to say this what the staff of this hotel has put me through i cannot put into words. Firstly no memeber of management would speak to me on the phone everytime they tried xalling they were "At meetings". The same person who replies to postive reviews from customers here has made me feel like it is my fault stating in one of his emails that my constant attempts on communications is not helping to resolve the situation. They are blaming everything on THEIR 3rd party who process payments and will not take responsibility themselves despite the devit narrative on my account being from their hotel. They will not refund me MY money that has come out of MY account despite the bill being paid in full before confirming with this 3rd party despite me making them aware of this 4 days ago. I just cannot express the bad level of customer service here and the level of stress they have put me.through whilst showing no empathy whats so ever. I would strongly advise potential customers not to stay here given my recent and on going experience with the hotel
+
+
+5. Neutral 
+
+
+AI generally is undertaken in conjunction with machine learning and data analytics.[5] Machine learning takes data and looks for underlying trends. If it spots something that is relevant for a practical problem, software designers can take that knowledge and use it to analyze specific issues. All that is required are data that are sufficiently robust that algorithms can discern useful patterns. Data can come in the form of digital information, satellite imagery, visual information, text, or unstructured data.
+
+
+
+Rating Sample Input :
+
+Reviews taken from below website of an hotel.
+
+Link : https://www.tripadvisor.in/ShowUserReviews-g274887-d667272-r488566942-Carat_Boutique_Hotel-Budapest_Central_Hungary.html
+
+
+5 star rating review : (Excellent)
+
+During our 4 day stay we exepriencd the best service starting from airport to hotel shuttle, to great staff, to amazing rooms. We enjoyed every single moment of our stay in Budapest and this hotel made sure to make that stay even better.
+
+
+4 star rating review : (Good)
+
+I had stayed here previously in Autumn of 2017 and was very satisfied with the experience then. This time, it was more hectic and while I had little time to enjoy the sights of the city, I was very satisfied with the stay. The food was excellent, the hospitality was superb and the location is as always top notch. The room could have been a little better as I remember my previous one being a much better stay overall. There was also a weird experience with the fire alarm early the morning of my departure back which was a little scary, but these things happen. Overall, very satisfied and one of the best hotels in the area which I would definitely recommend to stay at
+
+3 star rating review (Average)
+
+It is located in a very good central location, but unfortunately not clean as required for a 4 star hotel, hygen and cleanness is not good. Breakfast was very nice, Staff was very kind. Cleanness of the room poor.
+
+
+2 start rating (Fair)
+
+Checked in today for 4 days, turned on the Air Conditioning and went for a 2 hour walk as the room was stifling hot. Returned to a room temperature that had not changed. When the Duty Manager was questioned about why the A/C wasn't working the response was 'it's cold outside, so we've turned the A/C off for about a week'..... Utter nonsense - I've just come from a colder climate and find Budapest very hot and should be able to adjust regardless. Even their own Guest Directory advises 'rooms are equipped with an individual temperature setting for your comfort' - just not when they decide to shut down the entire system to skimp on normal running costs. Very disappointed with a basic aspect excluded from a '4 star' hotel......... Can't say that I've ever run into this situation during my extensive travels.
+
+
+
+1 star rating (poor)
+
+The hotel is in a perfect location.
+Reception was fast and effective.
+Room was clean, as well as the bathroom
+Breakfest was nice.
+It offered free tea/coffee during the day.
+
+The pictures mislead me on top of the 4☆ ranking.
+I would rank it a good 1☆ not 4,
+Reception area is poor and small.
+The room was small, beds were small.
+If I knew i would add 50€ a night and stay in a airbnb luxury apt or 5☆ hotel.
+
+
+
+
+
+
+
+
